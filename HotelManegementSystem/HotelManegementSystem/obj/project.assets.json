@@ -6045,9 +6045,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManegementSystem.csproj",
-      "projectName": "HotelManegementSystem",
-      "projectPath": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManegementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManagementSystem.csproj",
+      "projectName": "HotelManagementSystem",
+      "projectPath": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Rehan Akhtar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\obj\\",
       "projectStyle": "PackageReference",

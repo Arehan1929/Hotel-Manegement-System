@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Id0rKP//9FGrvevGNmbcMIqJeXw5ig0kC7RzEDZE697eMPdJO9gvIs97F7EXoOKaY6Du6zzfXBD4iJJo/SSyow==",
+  "dgSpecHash": "3WoJ4aA27GGF0x3S8ULpNDBraIVBcs2cUikho+IVO3On9Co3tmZSVYTRtu8Jd4ppyNz1eO6nrp0vDMm3QvvV7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManegementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Rehan Akhtar\\source\\repos\\Hotel-Manegement-System\\HotelManegementSystem\\HotelManegementSystem\\HotelManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rehan Akhtar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rehan Akhtar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
