@@ -14,6 +14,7 @@ namespace HotelManegementSystem
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            Console.WriteLine("Hello World");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

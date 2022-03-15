@@ -10,3 +10,15 @@ C:\Users\Rehan Akhtar\Desktop\c#\HotelManegementSystem\HotelManagementSystem.Dom
 C:\Users\Rehan Akhtar\Desktop\c#\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\refint\HotelManagementSystem.DomainLayer.dll
 C:\Users\Rehan Akhtar\Desktop\c#\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.pdb
 C:\Users\Rehan Akhtar\Desktop\c#\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\ref\HotelManagementSystem.DomainLayer.dll
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\bin\Debug\net5.0\HotelManagementSystem.DomainLayer.deps.json
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\bin\Debug\net5.0\HotelManagementSystem.DomainLayer.dll
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\bin\Debug\net5.0\HotelManagementSystem.DomainLayer.pdb
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.AssemblyInfo.cs
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.dll
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\refint\HotelManagementSystem.DomainLayer.dll
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\HotelManagementSystem.DomainLayer.pdb
+C:\Users\Rehan Akhtar\source\repos\Hotel-Manegement-System\HotelManegementSystem\HotelManagementSystem.DomainLayer\obj\Debug\net5.0\ref\HotelManagementSystem.DomainLayer.dll

@@ -5,11 +5,11 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManegementSystem", "HotelManegementSystem\HotelManegementSystem.csproj", "{3DDD90CA-5935-49EF-8A47-840CDC23A776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagementSystem.DomainLayer", "HotelManagementSystem.DomainLayer\HotelManagementSystem.DomainLayer.csproj", "{E2761B82-D496-4981-912D-D5351F6B3A66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManagementSystem.DomainLayer", "HotelManagementSystem.DomainLayer\HotelManagementSystem.DomainLayer.csproj", "{E2761B82-D496-4981-912D-D5351F6B3A66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagementSystem.RepositoryLayer", "HotelManagementSystem.RepositoryLayer\HotelManagementSystem.RepositoryLayer.csproj", "{03ABDAAC-C6C7-4CD0-97E3-9286473696B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManagementSystem.RepositoryLayer", "HotelManagementSystem.RepositoryLayer\HotelManagementSystem.RepositoryLayer.csproj", "{03ABDAAC-C6C7-4CD0-97E3-9286473696B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagementSystem.ServiceLayer", "HotelManagementSystem.ServiceLayer\HotelManagementSystem.ServiceLayer.csproj", "{D1101C48-E893-4812-8600-0D6C8833EC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManagementSystem.ServiceLayer", "HotelManagementSystem.ServiceLayer\HotelManagementSystem.ServiceLayer.csproj", "{D1101C48-E893-4812-8600-0D6C8833EC3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
